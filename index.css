@@ -1,0 +1,25 @@
+
+.container {
+    background-image: url('https://wallpapercave.com/wp/wp2003323.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+}
+
+.login_container {
+    background-color: #F0F8FF;
+    height: 65vh;
+    margin-top: 15vh;
+    margin: 13vh;
+    border-radius: 10px;
+}
+
+.image_value {
+    height: 15vh;
+    width: 15vh;
+    border-radius: 150px;
+    margin-top: 5vh;
+}
